@@ -173,5 +173,7 @@ def plot_phase_portrait(f, x_range=(-2, 2), y_range=(-2, 2), N=10, T=10, mu=1.0)
 plot_phase_portrait(lambda t, Y: vdp(t, Y, mu=1.0), x_range=(-3, 3), y_range=(-3, 3), N=10, T=10)
 ```
 
-## Example 1: Van der Pol Oscillator:
+## Example 1: Van der Pol Oscillator
+
+
 
