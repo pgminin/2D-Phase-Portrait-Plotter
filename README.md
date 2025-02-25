@@ -175,5 +175,10 @@ plot_phase_portrait(lambda t, Y: vdp(t, Y, mu=1.0), x_range=(-3, 3), y_range=(-3
 
 ## Example 1: Van der Pol Oscillator
 
+![alt Phase Portrait of the Van der Pol Oscillator](doc/img/van-der-pol-oscillator.png)
 
+
+## Example 2: Volterra Lotka System
+
+![alt Phase Portrait of the Volterra Lotka System](doc/img/volterra-lotka.png)
 
